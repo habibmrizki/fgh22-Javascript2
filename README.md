@@ -1,6 +1,7 @@
-# Kumpulan Fungsi JavaScript (Asynchronous)
+# Kumpulan Fungsi JavaScript (2)
 
-Proyek ini menampilkan penggunaan teknik asynchronous dalam JavaScript, seperti Promise, async/await, dan callback. Kode ini mencakup beberapa contoh cara menangani data secara asynchronous, termasuk penanganan kesalahan (error handling) menggunakan try/catch dan then/catch.
+Proyek ini menampilkan penjelasan method bawaan Javascript, program nama di batasi, dan filterAndSortStrings(minLength, maxLength, stringArray)
+memfilter daftar string berdasarkan panjangnya dan mengurutkannya secara ascending.
 
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
