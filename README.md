@@ -1,6 +1,6 @@
 # Kumpulan Fungsi JavaScript (2)
 
-Proyek ini menampilkan penjelasan method bawaan Javascript, program nama di batasi, dan filterAndSortStrings(minLength, maxLength, stringArray)
+Reposetory ini menampilkan penjelasan method bawaan Javascript, program nama di batasi, dan filterAndSortStrings(minLength, maxLength, stringArray)
 memfilter daftar string berdasarkan panjangnya dan mengurutkannya secara ascending.
 
 [![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
